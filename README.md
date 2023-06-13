@@ -1,3 +1,17 @@
+# Dark Mode Challenge (LinkedIn Learning Course)
+
+Implemented a component for seamless toggling between light and dark modes, accompanied by a generative AI background.
+
+![sheetshot](./public/images/readme.png)
+![sheetshot](./public/images/readme1.png)
+
+## Special Thanks
+- Special thanks to [Jiho Sohn](https://github.com/jsohndata) and [LinkedIn Learning](https://www.linkedin.com/learning/react-js-code-challenges/) 
+
+## Resources
+- [Night Cafe](https://creator.nightcafe.studio)
+- [LinkedIn Learning](https://www.linkedin.com/learning-login/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
